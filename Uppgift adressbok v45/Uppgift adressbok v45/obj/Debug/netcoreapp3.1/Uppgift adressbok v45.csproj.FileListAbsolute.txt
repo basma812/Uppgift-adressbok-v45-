@@ -1,0 +1,13 @@
+C:\Users\basma\source\repos\Uppgift adressbok v45\Uppgift adressbok v45\obj\Debug\netcoreapp3.1\Uppgift adressbok v45.csprojAssemblyReference.cache
+C:\Users\basma\source\repos\Uppgift adressbok v45\Uppgift adressbok v45\obj\Debug\netcoreapp3.1\Uppgift adressbok v45.AssemblyInfoInputs.cache
+C:\Users\basma\source\repos\Uppgift adressbok v45\Uppgift adressbok v45\obj\Debug\netcoreapp3.1\Uppgift adressbok v45.AssemblyInfo.cs
+C:\Users\basma\source\repos\Uppgift adressbok v45\Uppgift adressbok v45\obj\Debug\netcoreapp3.1\Uppgift adressbok v45.csproj.CoreCompileInputs.cache
+C:\Users\basma\source\repos\Uppgift adressbok v45\Uppgift adressbok v45\bin\Debug\netcoreapp3.1\Uppgift adressbok v45.exe
+C:\Users\basma\source\repos\Uppgift adressbok v45\Uppgift adressbok v45\bin\Debug\netcoreapp3.1\Uppgift adressbok v45.deps.json
+C:\Users\basma\source\repos\Uppgift adressbok v45\Uppgift adressbok v45\bin\Debug\netcoreapp3.1\Uppgift adressbok v45.runtimeconfig.json
+C:\Users\basma\source\repos\Uppgift adressbok v45\Uppgift adressbok v45\bin\Debug\netcoreapp3.1\Uppgift adressbok v45.runtimeconfig.dev.json
+C:\Users\basma\source\repos\Uppgift adressbok v45\Uppgift adressbok v45\bin\Debug\netcoreapp3.1\Uppgift adressbok v45.dll
+C:\Users\basma\source\repos\Uppgift adressbok v45\Uppgift adressbok v45\bin\Debug\netcoreapp3.1\Uppgift adressbok v45.pdb
+C:\Users\basma\source\repos\Uppgift adressbok v45\Uppgift adressbok v45\obj\Debug\netcoreapp3.1\Uppgift adressbok v45.dll
+C:\Users\basma\source\repos\Uppgift adressbok v45\Uppgift adressbok v45\obj\Debug\netcoreapp3.1\Uppgift adressbok v45.pdb
+C:\Users\basma\source\repos\Uppgift adressbok v45\Uppgift adressbok v45\obj\Debug\netcoreapp3.1\Uppgift adressbok v45.genruntimeconfig.cache
