@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\basma\\source\\repos\\Uppgift adressbok v45\\Uppgift adressbok v45\\Uppgift adressbok v45.csproj",
+      "projectUniqueName": "C:\\Users\\basma\\Source\\Repos\\Uppgift-adressbok-v45-\\Uppgift adressbok v45\\Uppgift adressbok v45\\Uppgift adressbok v45.csproj",
       "projectName": "Uppgift adressbok v45",
-      "projectPath": "C:\\Users\\basma\\source\\repos\\Uppgift adressbok v45\\Uppgift adressbok v45\\Uppgift adressbok v45.csproj",
+      "projectPath": "C:\\Users\\basma\\Source\\Repos\\Uppgift-adressbok-v45-\\Uppgift adressbok v45\\Uppgift adressbok v45\\Uppgift adressbok v45.csproj",
       "packagesPath": "C:\\Users\\basma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\basma\\source\\repos\\Uppgift adressbok v45\\Uppgift adressbok v45\\obj\\",
+      "outputPath": "C:\\Users\\basma\\Source\\Repos\\Uppgift-adressbok-v45-\\Uppgift adressbok v45\\Uppgift adressbok v45\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
