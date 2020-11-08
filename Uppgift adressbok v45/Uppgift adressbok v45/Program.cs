@@ -52,11 +52,12 @@ namespace Uppgift_adressbok_v45
                 Console.WriteLine("write 'add' if you want to add a new person's info 'name, adress, phonenumber and email'");
                 Console.WriteLine("write 'save' to save the persnol info");
                 Console.WriteLine("write 'delete' if you want to delete the personal information");
-                Console.WriteLine("write 'quite' to quite the program");
+                Console.WriteLine("write 'quit' to quite the program");
                 Console.Write("> ");
                 command = Console.ReadLine();
-                if (command == "quite")
+                if (command == "quit")
                 {
+                    
                     Console.WriteLine("Good bye!");
                 }
                 else if (command == "add")
@@ -121,7 +122,7 @@ namespace Uppgift_adressbok_v45
                     {
                         if (person[i] != null)
                         {
-                            Console.WriteLine("{0,-10}{1,-20}",
+                            Console.WriteLine("{0,-15} - {1,-15} - {2,-25} - {3}",
                                               person[i].name, person[i].adress, person[i].phoneNumber, person[i].email);
                         }
                     }
@@ -131,7 +132,7 @@ namespace Uppgift_adressbok_v45
                 {
                     Console.WriteLine($"Okänt kommando: {command}");
                 }
-            } while (command != "quite");
+            } while (command != "quit");
         }
     }
     
