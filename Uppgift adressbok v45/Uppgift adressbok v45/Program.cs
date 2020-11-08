@@ -27,19 +27,13 @@ namespace Uppgift_adressbok_v45
             string fileName = @" C:\Users\basma\adressbok.txt";
             
             List<PersonalInfo> person = new List<PersonalInfo>();
-            
 
             // Read the file as one string.
-
             using (StreamReader file = new StreamReader(fileName))
             {
-                
-
                 while ((fileName = file.ReadLine()) != null)
                 {
                     string[] info = fileName.Split(',');
-                    // Console.WriteLine(line);
-                    // Console.WriteLine("{0} - {1}", words[0], words[1]);
                     person.Add(new PersonalInfo(info[0], info[1], info[2], info[3]));
                 }
                 file.Close();
@@ -57,7 +51,6 @@ namespace Uppgift_adressbok_v45
                 command = Console.ReadLine();
                 if (command == "quit")
                 {
-                    
                     Console.WriteLine("Good bye!");
                 }
                 else if (command == "add")
@@ -116,8 +109,7 @@ namespace Uppgift_adressbok_v45
                 }
                
                 else if (command == "show")
-                {
-                    
+                {                   
                     for (int i = 0; i < person.Count(); i++)
                     {
                         if (person[i] != null)
@@ -132,7 +124,8 @@ namespace Uppgift_adressbok_v45
                 {
                     Console.WriteLine($"Okänt kommando: {command}");
                 }
-            } while (command != "quit");
+            } 
+            while (command != "quit");
         }
     }
     
